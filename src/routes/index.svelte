@@ -1,4 +1,4 @@
-<section class="p-6 bg-gray-50 pt-56 md:pt-32">
+<section class="p-6 bg-gray-50 pt-32 md:pt-32">
 	<div class="container grid gap-6 mx-auto text-center lg:grid-cols-2 xl:grid-cols-5 md:py-10 z-0">
 		<img src="https://www.parador-hotels.com/images/uploads/home/Purifier.png" alt="" class="object-cover w-full rounded-md col-span-full dark:bg-gray-500">
 	</div>
